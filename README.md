@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&color=8E44AD&lines=Hi+There!+👋;+I'm+Alessio+🚀;" />
 </p>
-
 <h3>a Computer Science student with a focus on Cyber Security and Software Engineering.</h3>
 
 ---
