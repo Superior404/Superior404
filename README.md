@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Alessio+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&color=8E44AD&lines=Hi+There!+👋;+I'm+Alessio+🚀;" />
 </p>
 
 <h3>a Computer Science student with a focus on Cyber Security and Software Engineering.</h3>
@@ -14,8 +14,10 @@
 - When not securing data, you'll find me crafting software 🛠️.
 - Constantly convincing my computer to brew me coffee ☕.
 
-  
-# Here are some more details about me:
+<span style="color:blue;">This text is blue.</span>
+
+
+## <span style="color:#8E44AD;">Here are some more details about me:</span>
 ```json
 {
   "interests": [
