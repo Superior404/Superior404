@@ -1,6 +1,12 @@
-### About Alessio 🚀
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Alessio+🚀;" />
+</h1>
 
-Hi there! 👋 I'm Alessio, a Computer Science student with a focus on Cyber Security and Software Engineering. I love diving into code and tackling cyber threats. When I'm not securing data or crafting software, I'm probably trying to convince my computer to make me a cup of coffee. ☕💻
+<h3>a Computer Science student with a focus on Cyber Security and Software Engineering.</h3>
+
+---
+
+I love diving into code and tackling cyber threats. When I'm not securing data or crafting software, I'm probably trying to convince my computer to make me a cup of coffee. ☕💻
 
 Here are some more details about me:
 ```json
@@ -25,5 +31,13 @@ Here are some more details about me:
     "Rust",
     "C/C++",
     "Ghidra",
+  ],
+  "current_projects": [
+    "Language Learning App"
+  ],
+  "improving_skills": [
+    "Python Scripting",
+    "Reverse Engineering",
+    "C/C++"
   ],
 }
