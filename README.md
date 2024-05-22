@@ -14,10 +14,7 @@
 - When not securing data, you'll find me crafting software 🛠️.
 - Constantly convincing my computer to brew me coffee ☕.
 
-<span style="color:blue;">This text is blue.</span>
-
-
-## <span style="color:#8E44AD;">Here are some more details about me:</span>
+## Here are some more details about me:
 ```json
 {
   "interests": [
