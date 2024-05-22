@@ -3,6 +3,7 @@
 👋 Hi there! 
 I'm Alessio, a Computer Science student with a focus on Cyber Security and Software Engineering. I love diving into code and tackling cyber threats. When I'm not securing data or crafting software, I'm probably trying to convince my computer to make me a cup of coffee. ☕💻
 
+```json
 Here are some more details about me:
 {
   "interests": [
