@@ -1,14 +1,21 @@
-<h1 align="center">
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Alessio+🚀;" />
-</h1>
+</p>
 
 <h3>a Computer Science student with a focus on Cyber Security and Software Engineering.</h3>
 
 ---
 
-I love diving into code and tackling cyber threats. When I'm not securing data or crafting software, I'm probably trying to convince my computer to make me a cup of coffee. ☕💻
+# About Me
 
-Here are some more details about me:
+- Passionate about coding and cybersecurity 💻.
+- Always up for tackling cyber threats head-on 🔒.
+- When not securing data, you'll find me crafting software 🛠️.
+- Constantly convincing my computer to brew me coffee ☕.
+
+  
+# Here are some more details about me:
 ```json
 {
   "interests": [
