@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Superior404/Superior404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! 
+I'm Alessio, a Computer Science student with a focus on Cyber Security and Software Engineering. I love diving into code and tackling cyber threats. When I'm not securing data or crafting software, I'm probably trying to convince my computer to make me a cup of coffee. ☕💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some more details about me:
+{
+  "interests": [
+    "Cyber Security",
+    "Software Engineering",
+    "Malware Analysis",
+    "CTF Challenges",
+    "Network Security",
+    "Machine Learning",
+    "Chess",
+    "Calisthenics"
+  ],
+  "technologies": [
+    "React",
+    "Typescript",
+    "Python",
+    "Windows",
+    "Unix",
+    "Microsoft Defender",
+    "Rust",
+    "C/C++",
+    "Ghidra",
+  ],
+}
